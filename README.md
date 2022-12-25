@@ -28,3 +28,8 @@ _Final note_: To serve the dashboard locally, execute the following command in t
 panel serve Interactive_dashboard.ipynb
 ```
 
+_Panel / hvplot Dashboard preview_:
+
+https://user-images.githubusercontent.com/116331323/209480218-2cdf4db9-78f4-4870-96fa-f93eb044a37e.mp4
+
+
