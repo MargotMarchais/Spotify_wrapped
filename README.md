@@ -30,6 +30,8 @@ panel serve Interactive_dashboard.ipynb
 
 _Panel / hvplot Dashboard preview_:
 
-https://user-images.githubusercontent.com/116331323/209480218-2cdf4db9-78f4-4870-96fa-f93eb044a37e.mp4
+https://user-images.githubusercontent.com/116331323/209560831-b9940a72-2371-45d5-a0fc-3589fa975b9e.mp4
+
+
 
 
