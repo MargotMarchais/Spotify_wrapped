@@ -18,5 +18,20 @@ In the case study, I answered the following questions:
   * Who are my favorite artists?
   * Which podcasts do I listen to the most?
   
-_Technical learnings_:This project allowed me to experiment the SQLITE3 Python package that allows to execute SQL code in a Jupyter notebook. 
+_Technical learnings_: 
+* This project allowed me to experiment the **SQLITE3** Python package that allows to execute SQL code in a Jupyter notebook. 
+* I could also put into practice the **panel** and **hvplot** packages after watching the excellent [Youtube video from Thu Vu](https://www.youtube.com/watch?v=uhxiXOTKzfs&t=26s&ab_channel=ThuVudataanalytics) as main inspiration
+
+    
+_Final note_: To serve the dashboard locally, execute the following command in the terminal :
+```
+panel serve Interactive_dashboard.ipynb
+```
+
+_Panel / hvplot Dashboard preview_:
+
+https://user-images.githubusercontent.com/116331323/209560831-b9940a72-2371-45d5-a0fc-3589fa975b9e.mp4
+
+
+
 
